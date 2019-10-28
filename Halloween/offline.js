@@ -1,0 +1,27 @@
+﻿{
+	"version": 1572289669,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/backgroundtile.png",
+		"images/player-sheet0.png",
+		"images/solidtile.png",
+		"images/jumpthrutile.png",
+		"images/pumpkin-sheet0.png",
+		"images/candy-sheet0.png",
+		"media/foom_0.m4a",
+		"media/foom_0.ogg",
+		"media/goblin scream.m4a",
+		"media/goblin scream.ogg",
+		"media/mevalspook.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"penumbra.png"
+	]
+}
